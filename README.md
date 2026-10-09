@@ -1,6 +1,6 @@
 # Soluções de algoritmos em Python
 
-Repositório desenvolvido como parte do desafio da formação GitHub Certification da DIO. Ele reúne exemplos introdutórios de programação em Python, com foco em entrada e saída de dados, operações aritméticas e manipulação de strings.
+Esse repositório foi desenvolvido como parte do desafio da formação GitHub Certification da DIO. Ele reúne exemplos introdutórios de programação em Python, com foco em entrada e saída de dados, operações aritméticas e manipulação de strings.
 
 ## Objetivo do projeto
 
